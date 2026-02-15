@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "リビルド",
+  "base_artist": "a crowd of rebellion",
+  "createdAt": "2026-02-15T13:35:31.570477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リビルド",
+      "artist": "a crowd of rebellion",
+      "has_synced": false,
+      "path": "select/01_リビルド_a_crowd_of_rebellion.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リビルド",
+      "artist": "a crowd of rebellion",
+      "has_synced": false,
+      "path": "select/pl_01_リビルド_a_crowd_of_rebellion.txt"
+    }
+  ]
+}
